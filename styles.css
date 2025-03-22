@@ -14,13 +14,6 @@ footer {
     color: red;
     text-align: center;
 }
-@media screen and (max-width: 600px) {
-    body {
-        font-size: 14px;
-    }
-}
-
-    
 
 .background {
     position: fixed;
