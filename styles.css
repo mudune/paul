@@ -6,7 +6,7 @@ body {
     color: whitesmoke;
     font-size: medium;
 }
-.footer {
+footer {
     position: fixed;
     bottom: 0;
     left: 50%;
